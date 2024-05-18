@@ -1,0 +1,18 @@
+{
+  "item.rosegoldequipment.rose_gold_ingot": "Злиток рожевого золота",
+  "item.rosegoldequipment.rose_golden_pickaxe": "Кайло з рожевого золота",
+  "item.rosegoldequipment.rose_golden_shovel": "Лопата з рожевого золота",
+  "item.rosegoldequipment.rose_golden_axe": "Сокира з рожевого золота",
+  "item.rosegoldequipment.rose_golden_hoe": "Мотика з рожевого золота",
+  "item.rosegoldequipment.rose_golden_sword": "Меч із рожевого золота",
+  "item.rosegoldequipment.raw_rose_gold": "Необроблене рожеве золото",
+  "item.rosegoldequipment.rose_golden_helmet": "Шолом із рожевого золота",
+  "item.rosegoldequipment.rose_golden_chestplate": "Нагрудник із рожевого золота",
+  "item.rosegoldequipment.rose_golden_leggings": "Наголінники з рожевого золота",
+  "item.rosegoldequipment.rose_golden_boots": "Чоботи з рожевого золота",
+  "block.rosegoldequipment.rose_gold_block": "Блок рожевого золота",
+  "block.rosegoldequipment.raw_rose_gold_block": "Блок необробленого рожевого золота",
+  "block.rosegoldequipment.rose_gold_door": "Двері з рожевого золота",
+  "block.rosegoldequipment.rose_gold_trapdoor": "Люк із рожевого золота",
+  "itemGroup.rose_gold_group": "Спорядження з рожевого золота"
+}
