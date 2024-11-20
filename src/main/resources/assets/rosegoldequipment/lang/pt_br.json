@@ -1,0 +1,33 @@
+{
+  "item.rosegoldequipment.rose_gold_ingot": "Lingote de ouro rosa",
+  "item.rosegoldequipment.rose_gold_nugget": "Pepita de ouro rosa",
+  "item.rosegoldequipment.raw_rose_gold": "Ouro rosa bruto",
+
+  "item.rosegoldequipment.rose_gilded_beetroot": "Beterraba dourada com ouro rosa",
+  "item.rosegoldequipment.rose_gilded_mushroom": "Cogumelo dourado com ouro rosa",
+  "item.rosegoldequipment.rosey_beetroot_stew": "Ensopado de beterraba rosado",
+  "item.rosegoldequipment.rose_gilded_cookie": "Biscoito Dourado com ouro rosa",
+  "item.rosegoldequipment.rose_mushroom_omelette": "Omelete de cogumelo",
+  "item.rosegoldequipment.rose_mushroom_partial": "Omelete de cogumelo parcialmente comido",
+  "item.rosegoldequipment.rose_mushroom_crumbs": "Restos de omelete de cogumelo",
+  "item.rosegoldequipment.rose_full_jelly": "Geléia de ouro rosa",
+  "item.rosegoldequipment.rose_half_jelly": "Geléia meio comida",
+
+  "item.rosegoldequipment.rose_golden_pickaxe": "Picareta de ouro rosa",
+  "item.rosegoldequipment.rose_golden_shovel": "Pá de ouro rosa",
+  "item.rosegoldequipment.rose_golden_axe": "Machado de ouro rosa",
+  "item.rosegoldequipment.rose_golden_hoe": "Enxada de ouro rosa",
+  "item.rosegoldequipment.rose_golden_sword": "Espada de ouro rosa",
+
+  "item.rosegoldequipment.rose_golden_helmet": "Capacete de ouro rosa",
+  "item.rosegoldequipment.rose_golden_chestplate": "Peitoral de ouro rosa",
+  "item.rosegoldequipment.rose_golden_leggings": "Calças de ouro rosa",
+  "item.rosegoldequipment.rose_golden_boots": "Botas de ouro rosa",
+
+  "block.rosegoldequipment.rose_gold_block": "Bloco de ouro rosa",
+  "block.rosegoldequipment.raw_rose_gold_block": "Bloco de ouro rosa bruto",
+  "block.rosegoldequipment.rose_gold_door": "Porta de ouro rosa",
+  "block.rosegoldequipment.rose_gold_trapdoor": "Alçapão de ouro rosa",
+
+  "itemGroup.rose_gold_group": "Equipamentos de ouro rosa"
+}
